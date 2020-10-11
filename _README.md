@@ -4,7 +4,9 @@
 
 ---
 
-#### Customizing the site 
+#### Customizing the site
+
+Updated 10/11/2020
 
 ---
 
