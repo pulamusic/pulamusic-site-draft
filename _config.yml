@@ -1,7 +1,7 @@
-site: Index Jekyll Theme
+site: James Carroll | Instructional Designer
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: https://pulamusic.github.io/id-portfolio/
+baseurl:
 
 collections:
   pages:
@@ -44,7 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
