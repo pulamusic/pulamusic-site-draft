@@ -201,6 +201,7 @@ a {
 	}
 }
 
+/*CHECK OUT BUTTON COLORS*/
 .button {
 	display: inline-block;
 	padding: 9px 10px 10px;
@@ -388,7 +389,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+
 	}
 }
 

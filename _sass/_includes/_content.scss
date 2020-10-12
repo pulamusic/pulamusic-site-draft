@@ -31,9 +31,9 @@
 			max-width: 65%;
 		}
 	}
-	
+
 	h1 {
-		
+
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -45,7 +45,7 @@
 }
 
 .content-wrap {
-	
+
 }
 
 .single {
@@ -119,8 +119,8 @@
 	}
 
 	p a {
-		font-weight: $bold-weight;
-		border-bottom: 2px solid $accent-color;
+		font-weight: $regular-weight;
+		/*border-bottom: 2px solid $accent-color;*/
 	}
 
 	p .button {
@@ -216,7 +216,7 @@
 				padding: 20px;
 			}
 		}
-		
+
 		tbody tr {
 			background: $background-color;
 
@@ -281,7 +281,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;
@@ -317,6 +317,15 @@
 
 .image-wrap img {
 	margin: 0 auto;
+	max-width: 80%;
+	box-shadow: 5px 5px 5px #d8d6d6;
+	/*ADD SOME CSS TRICKERY HERE*/
+	transition: all 3s ease-in-out;
+
+}
+
+.image-wrap img:hover {
+	transform: scale(1.05);
 }
 
 .video {
