@@ -41,6 +41,8 @@ defaults:
 
 markdown: kramdown
 
+remote_theme: Index
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
