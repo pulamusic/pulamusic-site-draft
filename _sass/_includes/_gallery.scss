@@ -9,6 +9,12 @@
 	position: relative;
 	margin: 20px auto;
 
+	figure {
+		visibility: inherit;
+		position: inherit;
+		margin: inherit;
+	}
+
 	@include mq(tabletp) {
 		margin: 30px auto;
 	}
@@ -25,6 +31,14 @@
 		margin-top: 0;
 	}
 }
+
+/*
+.gallery figure {
+	visibility: visible;
+	position: relative;
+	margin: 20px auto;
+}
+*/
 
 .gallery--on {
 	visibility: visible;
@@ -47,7 +61,7 @@
 	.gallery__wrap {
 
 	}
-	
+
 	.gallery__item {
 
 	}
@@ -98,7 +112,7 @@
 		margin-left: -$grid-spacing/2;
 		margin-right: -$grid-spacing/2;
 	}
-	
+
 	.gallery__item {
 		float: left;
 		width: 50%;
@@ -180,6 +194,3 @@
 		}
 	}
 }
-
-
-
