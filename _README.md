@@ -8,6 +8,8 @@
 
 Updated 10/11/2020
 
+Below is the info from the theme designer.
+
 ---
 
 # Index by JekyllThemes.io – Instructions
