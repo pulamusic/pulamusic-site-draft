@@ -1,7 +1,7 @@
 site: James Carroll | Instructional Designer
 
-url: https://pulamusic.github.io
-baseurl: /id-portfolio/
+url: https://pulamusic.github.io/id-portfolio/
+baseurl:
 
 collections:
   pages:
