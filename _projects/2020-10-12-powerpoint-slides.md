@@ -3,7 +3,7 @@ title: 'PowerPoint Slides'
 subtitle: 'PowerPoint slides created for classes in U.S. history'
 date: 2020-10-12 12:46:00
 description: TimelineJS is a simple but powerful tool for creating interactive timelines that can be embedded in your web pages and LMS modules.
-featured_image: '/images/projects/PowerPointSlides/PowerPointSlides.png'
+featured_image: '/is-portfolio/images/projects/PowerPointSlides/PowerPointSlides.png'
 ---
 
 ![Screenshot of the PowerPoint Slides page](/images/projects/PowerPointSlides/PowerPointSlides.png)
