@@ -22,11 +22,11 @@ You can either [visit the page here to access all the files](https://pulamusic.g
 | <a href="https://docs.google.com/presentation/d/1BAKQAqgqFbVG-6WlrjjptX5WKSJbTo7mE-Ww8QK6x0A/edit" target="_blank">World War I</a> | <a href="https://drive.google.com/file/d/0B5cgBL0rA89Db0gteGMxLVlyREk/view" target="_blank">The Gilded Age</a> | <a href="https://drive.google.com/file/d/0B5cgBL0rA89DVHB4OFVhdm5ib0U/view" target="_blank">The Market Revolution</a> |
 
 <div class="gallery" data-columns="3">
-  <img src="/images/projects/PowerPointSlides/slides1.png" alt="The New World">
-  <img src="/images/projects/PowerPointSlides/slides2.png" alt="Republicanism and Liberalism">
-	<img src="/images/projects/PowerPointSlides/slides3.png" alt="Securing the Republic">
-	<img src="/images/projects/PowerPointSlides/slides4.png" alt="The Market Revolution">
-  <img src="/images/projects/PowerPointSlides/slides5.png" alt="The Gilded Age">
-  <img src="/images/projects/PowerPointSlides/slides6.png" alt="World War I">
+  <img src="/id-portfolio/images/projects/PowerPointSlides/slides1.png" alt="The New World">
+  <img src="/id-portfolio/images/projects/PowerPointSlides/slides2.png" alt="Republicanism and Liberalism">
+	<img src="/id-portfolio/images/projects/PowerPointSlides/slides3.png" alt="Securing the Republic">
+	<img src="/id-portfolio/images/projects/PowerPointSlides/slides4.png" alt="The Market Revolution">
+  <img src="/id-portfolio/images/projects/PowerPointSlides/slides5.png" alt="The Gilded Age">
+  <img src="/id-portfolio/images/projects/PowerPointSlides/slides6.png" alt="World War I">
 </div>
 ---
