@@ -4,11 +4,24 @@
 
 ---
 
-#### Customizing the site
+## Customizing the site
 
 Updated 10/11/2020
 
 Below is the info from the theme designer.
+
+### Some of my own notes
+
+#### Working on a weird problem about the way this theme renders image urls
+
+* An image url that doesn't work: https://pulamusic.github.io/images/projects/PowerPointSlides/PowerPointSlides.png
+* An image url that works: https://pulamusic.github.io/id-portfolio/images/projects/PowerPointSlides/slides1.png
+
+Both of these image urls come from the same freaking page: https://pulamusic.github.io/id-portfolio/project/powerpoint-slides. **The problem I have is that I don't know where to find code that renders the images. I think the problem is probably in the Liquid tags.**
+
+---
+
+***The rest of this file is informative stuff written my the Jekyll theme's creator.***
 
 ---
 
