@@ -5,7 +5,7 @@ description: Thank You message from James Carroll | Instructional Designer.
 featured_image: /images/JimHeadshot.JPG
 ---
 
-![Jim Carroll](/images/JimHeadshot.JPG)
+![Jim Carroll](/id-portfolio/images/JimHeadshot.JPG)
 
 #### Thank you for submitting your message.
 

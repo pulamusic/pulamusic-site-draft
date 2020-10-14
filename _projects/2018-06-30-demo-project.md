@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![Demo photo](/images/demo/demo-landscape.jpg)
+![Demo photo](/id-portfolio/images/demo/demo-landscape.jpg)
 
 ## Demo content
 

@@ -5,7 +5,7 @@ description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/JimHeadshot.JPG
 ---
 
-![James Carroll Headshot](/images/JimHeadshot.JPG)
+![James Carroll Headshot](/id-portfolio/images/JimHeadshot.JPG)
 
 I am an Instructional Designer, Academic, and Musician living in Massachusetts. I am an experienced and creative educator who has been producing Learning Management System websites, curricula, and materials for nearly 20 years.
 

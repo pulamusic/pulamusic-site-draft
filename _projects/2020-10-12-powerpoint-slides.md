@@ -6,7 +6,7 @@ description: TimelineJS is a simple but powerful tool for creating interactive t
 featured_image: '/images/projects/PowerPointSlides/PowerPointSlides.png'
 ---
 
-![Screenshot of the PowerPoint Slides page](/images/projects/PowerPointSlides/PowerPointSlides.png)
+![Screenshot of the PowerPoint Slides page](/id-portfolio/images/projects/PowerPointSlides/PowerPointSlides.png)
 
 ## A collection of PowerPoint slides for teaching classes in U.S. history
 
