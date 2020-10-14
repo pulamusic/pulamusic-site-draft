@@ -19,6 +19,32 @@ Below is the info from the theme designer.
 
 Both of these image urls come from the same freaking page: https://pulamusic.github.io/id-portfolio/project/powerpoint-slides. **The problem I have is that I don't know where to find code that renders the images. I think the problem is probably in the Liquid tags.**
 
+#### Holy Hell, I figured out the image problem
+
+There is a difference between the way I need to enter image urls on project pages (blog pages too?) depending on whether it is a `featured_image` url or the url for an image on the page. Here are the differences.
+
+Here is how a `featured_image` is written:
+
+```yml
+  ---
+  title: 'moonBlog'
+  subtitle: 'Quickly create a site or blog using Jekyll'
+  date: 2020-10-14 07:58:00
+  description: Jekyll static site generator that creates fast, lightweight blogs and sites.
+  featured_image: '/images/projects/moonBlog/moonBlog.png'
+  ---
+```
+
+And here is how an individual image on a page is written:
+
+```md
+  ![Screenshot of a timeline for U.S. history](/id-portfolio/images/projects/moonBlog/moonBlog.png)
+```
+
+Notice that `/id-portfolio` is added to the url of the latter example.
+
+##### I got held up for days by a shit-simple little thing!
+
 ---
 
 ***The rest of this file is informative stuff written my the Jekyll theme's creator.***
