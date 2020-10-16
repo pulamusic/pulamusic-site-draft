@@ -47,7 +47,11 @@ Notice that `/id-portfolio` is added to the url of the latter example.
 
 ---
 
-***The rest of this file is informative stuff written my the Jekyll theme's creator.***
+http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+
+---
+
+## The rest of this file is informative stuff written by the Jekyll theme's creator.
 
 ---
 
