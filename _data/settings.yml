@@ -183,4 +183,4 @@ advanced_settings:
   analytics_code: "" # Do I have an analytics account?
   custom_styles: "./_sass/custom.scss" # I suppose this should have been the way to do it
   header_js: "" # My Sun Ra quotes script! Yes!
-  footer_js: "" # I have that script that updates the copyright year.
+  footer_js: "./js/copyright.js" # My own script for copyright year.

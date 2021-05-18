@@ -12,14 +12,22 @@ Below is the info from the theme designer.
 
 ### Some of my own notes
 
-#### Working on a weird problem about the way this theme renders image urls
+#### 05/18/2021: adding plugins
+
+I have added a number of Jekyll plugins:
+* jekyll-spaceship
+* jekyll-feed
+* jekyll-footnotes
+* jekyll-seo-tag
+
+#### 10/11/2020:Working on a weird problem about the way this theme renders image urls
 
 * An image url that doesn't work: https://pulamusic.github.io/images/projects/PowerPointSlides/PowerPointSlides.png
 * An image url that works: https://pulamusic.github.io/id-portfolio/images/projects/PowerPointSlides/slides1.png
 
 Both of these image urls come from the same freaking page: https://pulamusic.github.io/id-portfolio/project/powerpoint-slides. **The problem I have is that I don't know where to find code that renders the images. I think the problem is probably in the Liquid tags.**
 
-#### Holy Hell, I figured out the image problem
+#### 10/11/2020: Holy Hell, I figured out the image problem
 
 There is a difference between the way I need to enter image urls on project pages (blog pages too?) depending on whether it is a `featured_image` url or the url for an image on the page. Here are the differences.
 
@@ -43,15 +51,18 @@ And here is how an individual image on a page is written:
 
 Notice that `/id-portfolio` is added to the url of the latter example.
 
-##### I got held up for days by a shit-simple little thing!
+---
+
+**05/18/2021 UPDATE**: I'm going to start using **imgix** as a service to store and process all my imagery for online media.
 
 ---
+
+##### 10/11/2020: ***I got held up for days by a shit-simple little thing!***
 
 http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
 
----
 
-## The rest of this file is informative stuff written by the Jekyll theme's creator.
+## 10/11/2020: **The rest of this file is informative stuff written by the Jekyll theme's creator**.
 
 ---
 
