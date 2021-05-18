@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: James Carroll | Instructional Designer
-  site_tagline: Online Curriculum Design | Web Design &amp; Development
+  site_title: pulamusic
+  site_tagline: music, instructional design, humanities
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -13,20 +13,24 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Contact'
+      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 20
 
+# ======== contact ========
+
 contact_settings:
-  form_action: 'https://formspree.io/f/mwkwllkr'
+  form_action: 'https://formspree.io/f/xrgrpyva'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission from GitHub id-portfolio'
   send_button_text: 'Send Message'
+
+# ======== social ========
 
 social_settings:
   facebook_url: 'https://www.facebook.com/PulaBlog-105375687956509'
@@ -37,7 +41,7 @@ social_settings:
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
-  medium_url: ''
+  medium_url: '' # I should write something for Medium
   quora_url: ''
   amazon_url: ''
   apple_url: ''
@@ -56,6 +60,8 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/james-carroll-36001511a/'
 
+# ======== colors ========
+
 color_settings:
   background_color: '#f2eee8'
   # background_color: '#ffffff'
@@ -70,6 +76,8 @@ color_settings:
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
+
+# ======== change the fonts ========
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
@@ -168,9 +176,11 @@ font_settings:
     weight: 500
     letter_spacing: 0
 
+# ======== advanced ========
+
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
-  custom_styles: ""
-  header_js: ""
-  footer_js: ""
+  analytics_code: "" # Do I have an analytics account?
+  custom_styles: "./_sass/custom.scss" # I suppose this should have been the way to do it
+  header_js: "" # My Sun Ra quotes script! Yes!
+  footer_js: "" # I have that script that updates the copyright year.
